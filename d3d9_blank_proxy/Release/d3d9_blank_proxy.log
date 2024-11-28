@@ -1,0 +1,7 @@
+﻿  d3d9.cpp
+     Création de la bibliothèque C:\Users\Alexandre\Desktop\DOOMIVION\obse_plugin_example\Release\d3d9.lib et de l'objet C:\Users\Alexandre\Desktop\DOOMIVION\obse_plugin_example\Release\d3d9.exp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  d3d9_blank_proxy.vcxproj -> C:\Users\Alexandre\Desktop\DOOMIVION\obse_plugin_example\Release\d3d9.dll
